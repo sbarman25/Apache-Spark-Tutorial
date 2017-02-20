@@ -1,7 +1,7 @@
 # Apache-Spark-Tutorial
 Spark is well known cluster computing framework. At the lowest level, we work with RDD(Resilient distributed dataset). It also includes higher level modules such as SparkSQL, Dataframes, GraphX (graph processing), MLlib (machine learning), and Streaming.  
 ***
-This tutorial focuses on working with normal and key-value RDDs using Python programming language.
+This tutorial focuses on working with normal and key-value RDDs using Python programming language. PySpark is the python version of Spark.
 
 1. PySparkTutorial.ipynb: This tutorial demostrates the following - 
   * How to configure Spark and standalone Spark cluster on local machine.
